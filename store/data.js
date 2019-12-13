@@ -1,14 +1,14 @@
 // A collection of musicians where the key is the unique id
 module.exports = {
   coltrane: {
-    firstName: 'John',
-    lastName: 'Coltrane',
+    firstName: 'Saibaba',
+    lastName: 'Gajulwar',
     genre: 'JAZZ',
   },
 
   davis: {
-    firstName: 'Gustav',
-    lastName: 'Ejstes',
+    firstName: 'Harsha',
+    lastName: 'Kamaraju',
     genre: 'Rock',
   },
   melody: {
@@ -18,20 +18,20 @@ module.exports = {
 	  },
 
   mccartney: {
-    firstName: 'Paul',
-    lastName: 'McCartney',
+    firstName: 'Teju',
+    lastName: 'Pendyala',
     genre: 'ROCK',
   },
 
   hendrix: {
-    firstName: 'Jimi',
-    lastName: 'Hendrix',
+    firstName: 'Allam',
+    lastName: 'Venu',
     genre: 'Rock',
   },
 
   cobain: {
-    firstName: 'Kurt',
-    lastName: 'Cobain',
+    firstName: 'Venkatesh',
+    lastName: 'Padavala',
     genre: 'Rock',
   },
 
