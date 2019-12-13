@@ -11,6 +11,11 @@ module.exports = {
     lastName: 'Kamaraju',
     genre: 'Rock',
   },
+  davis: {
+	    firstName: 'Chakri',
+	    lastName: 'Vulli',
+	    genre: 'Rock',
+	  },
   melody: {
 	    firstName: 'Vamsi',
 	    lastName: 'Vempati',
