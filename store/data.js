@@ -8,7 +8,7 @@ module.exports = {
 
   king: {
     firstName: 'Harsha',
-    lastName: 'Kamaraju',
+    lastName: 'DronamRaju',
     genre: 'Rock',
   },
   davis: {
