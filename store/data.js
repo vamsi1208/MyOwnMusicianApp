@@ -6,7 +6,7 @@ module.exports = {
     genre: 'JAZZ',
   },
 
-  davis: {
+  king: {
     firstName: 'Harsha',
     lastName: 'Kamaraju',
     genre: 'Rock',
@@ -40,9 +40,9 @@ module.exports = {
     genre: 'Rock',
   },
 
-  king: {
+ /* king: {
     firstName: 'Bo',
     lastName: 'Hansson',
     genre: 'Rock',
-  },
+  },*/
 };
